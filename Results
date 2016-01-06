@@ -1,0 +1,363 @@
+Compiling accum...
+graph size: 661
+graph size: 645
+Compiling accum done. Time elapsed: 7.568418 seconds
+Monitoring step:
+	Epochs seen: 0
+	Batches seen: 0
+	Examples seen: 0
+	learning_rate: 0.00199990696274
+	momentum: 0.499998658895
+	test_objective: 1.71218144894
+	test_term_0: 1.60929858685
+	test_term_1_weight_decay: 0.102885887027
+	test_y_col_norms_max: 0.628504633904
+	test_y_col_norms_mean: 0.588092803955
+	test_y_col_norms_min: 0.558463990688
+	test_y_max_max_class: 0.205867603421
+	test_y_mean_max_class: 0.205637454987
+	test_y_min_max_class: 0.205407202244
+	test_y_misclass: 0.868955731392
+	test_y_nll: 1.60929858685
+	test_y_row_norms_max: 0.200909972191
+	test_y_row_norms_mean: 0.110336601734
+	test_y_row_norms_min: 0.0331109687686
+	total_seconds_last_epoch: 0.0
+	train_objective: 1.71041715145
+	train_term_0: 1.60753691196
+	train_term_1_weight_decay: 0.102832898498
+	train_y_col_norms_max: 0.628686249256
+	train_y_col_norms_mean: 0.58807092905
+	train_y_col_norms_min: 0.558252155781
+	train_y_max_max_class: 0.206565305591
+	train_y_mean_max_class: 0.206277042627
+	train_y_min_max_class: 0.205989062786
+	train_y_misclass: 0.727366507053
+	train_y_nll: 1.60753691196
+	train_y_row_norms_max: 0.200832769275
+	train_y_row_norms_mean: 0.11032114923
+	train_y_row_norms_min: 0.0331200249493
+	training_seconds_this_epoch: 0.0
+Saving to cnn_best.pkl...
+Saving to cnn_best.pkl done. Time elapsed: 0.556211 seconds
+Time this epoch: 0:04:31.649826
+Monitoring step:
+	Epochs seen: 1
+	Batches seen: 36008
+	Examples seen: 72016
+	learning_rate: 0.00199990696274
+	momentum: 0.499998658895
+	test_objective: 0.952821195126
+	test_term_0: 0.849219977856
+	test_term_1_weight_decay: 0.103602066636
+	test_y_col_norms_max: 1.87207067013
+	test_y_col_norms_mean: 1.64454424381
+	test_y_col_norms_min: 1.02429890633
+	test_y_max_max_class: 0.921920120716
+	test_y_mean_max_class: 0.899739801884
+	test_y_min_max_class: 0.877560257912
+	test_y_misclass: 0.237658426166
+	test_y_nll: 0.849219977856
+	test_y_row_norms_max: 0.969594240189
+	test_y_row_norms_mean: 0.275875329971
+	test_y_row_norms_min: 0.0491806194186
+	total_seconds_last_epoch: 0.0
+	train_objective: 0.196766078472
+	train_term_0: 0.0931708440185
+	train_term_1_weight_decay: 0.103572651744
+	train_y_col_norms_max: 1.8715955019
+	train_y_col_norms_mean: 1.64426863194
+	train_y_col_norms_min: 1.0239379406
+	train_y_max_max_class: 0.977202951908
+	train_y_mean_max_class: 0.962878763676
+	train_y_min_max_class: 0.948566257954
+	train_y_misclass: 0.0289522446692
+	train_y_nll: 0.0931708440185
+	train_y_row_norms_max: 0.969966113567
+	train_y_row_norms_mean: 0.275815606117
+	train_y_row_norms_min: 0.0491949655116
+	training_seconds_this_epoch: 271.650665283
+Saving to cnn_best.pkl...
+Saving to cnn_best.pkl done. Time elapsed: 0.144587 seconds
+Saving to cnn.pkl...
+Saving to cnn.pkl done. Time elapsed: 0.142866 seconds
+Time this epoch: 0:04:32.411939
+Monitoring step:
+	Epochs seen: 2
+	Batches seen: 72016
+	Examples seen: 144032
+	learning_rate: 0.00199990696274
+	momentum: 0.55445587635
+	test_objective: 1.03389084339
+	test_term_0: 0.93143093586
+	test_term_1_weight_decay: 0.102460287511
+	test_y_col_norms_max: 2.03100895882
+	test_y_col_norms_mean: 1.78927111626
+	test_y_col_norms_min: 1.02879858017
+	test_y_max_max_class: 0.932533025742
+	test_y_mean_max_class: 0.909136116505
+	test_y_min_max_class: 0.885741233826
+	test_y_misclass: 0.232569396496
+	test_y_nll: 0.93143093586
+	test_y_row_norms_max: 1.01634407043
+	test_y_row_norms_mean: 0.301120698452
+	test_y_row_norms_min: 0.0573943033814
+	total_seconds_last_epoch: 903.155639648
+	train_objective: 0.146593913436
+	train_term_0: 0.0441324561834
+	train_term_1_weight_decay: 0.102479234338
+	train_y_col_norms_max: 2.03062224388
+	train_y_col_norms_mean: 1.7897285223
+	train_y_col_norms_min: 1.02852785587
+	train_y_max_max_class: 0.987868130207
+	train_y_mean_max_class: 0.978285610676
+	train_y_min_max_class: 0.968720018864
+	train_y_misclass: 0.0126084173098
+	train_y_nll: 0.0441324561834
+	train_y_row_norms_max: 1.01679372787
+	train_y_row_norms_mean: 0.301127821207
+	train_y_row_norms_min: 0.0574097819626
+	training_seconds_this_epoch: 272.415863037
+Saving to cnn_best.pkl...
+Saving to cnn_best.pkl done. Time elapsed: 0.144829 seconds
+Saving to cnn.pkl...
+Saving to cnn.pkl done. Time elapsed: 0.144396 seconds
+Time this epoch: 0:04:31.369397
+Monitoring step:
+	Epochs seen: 3
+	Batches seen: 108024
+	Examples seen: 216048
+	learning_rate: 0.00199990696274
+	momentum: 0.608883857727
+	test_objective: 0.9167137146
+	test_term_0: 0.816075921059
+	test_term_1_weight_decay: 0.100630797446
+	test_y_col_norms_max: 2.12885069847
+	test_y_col_norms_mean: 1.85338044167
+	test_y_col_norms_min: 1.02042245865
+	test_y_max_max_class: 0.94616317749
+	test_y_mean_max_class: 0.924779593945
+	test_y_min_max_class: 0.903395950794
+	test_y_misclass: 0.193892642856
+	test_y_nll: 0.816075921059
+	test_y_row_norms_max: 1.05339276791
+	test_y_row_norms_mean: 0.312414228916
+	test_y_row_norms_min: 0.0524159371853
+	total_seconds_last_epoch: 902.846984863
+	train_objective: 0.125382676721
+	train_term_0: 0.0247623957694
+	train_term_1_weight_decay: 0.100609406829
+	train_y_col_norms_max: 2.12906146049
+	train_y_col_norms_mean: 1.85407888889
+	train_y_col_norms_min: 1.02002716064
+	train_y_max_max_class: 0.99420183897
+	train_y_mean_max_class: 0.987743556499
+	train_y_min_max_class: 0.981298029423
+	train_y_misclass: 0.00751225464046
+	train_y_nll: 0.0247623957694
+	train_y_row_norms_max: 1.05357706547
+	train_y_row_norms_mean: 0.312359392643
+	train_y_row_norms_min: 0.0524388775229
+	training_seconds_this_epoch: 271.365081787
+Saving to cnn_best.pkl...
+Saving to cnn_best.pkl done. Time elapsed: 0.145950 seconds
+Saving to cnn.pkl...
+Saving to cnn.pkl done. Time elapsed: 0.145189 seconds
+Time this epoch: 0:04:29.895464
+Monitoring step:
+	Epochs seen: 4
+	Batches seen: 144032
+	Examples seen: 288064
+	learning_rate: 0.00199990696274
+	momentum: 0.66336363554
+	test_objective: 1.17185997963
+	test_term_0: 1.07339823246
+	test_term_1_weight_decay: 0.0984730422497
+	test_y_col_norms_max: 2.17714333534
+	test_y_col_norms_mean: 1.88861584663
+	test_y_col_norms_min: 1.0065510273
+	test_y_max_max_class: 0.959450423717
+	test_y_mean_max_class: 0.94111853838
+	test_y_min_max_class: 0.922785818577
+	test_y_misclass: 0.203307390213
+	test_y_nll: 1.07339823246
+	test_y_row_norms_max: 0.982885181904
+	test_y_row_norms_mean: 0.320755153894
+	test_y_row_norms_min: 0.0423004180193
+	total_seconds_last_epoch: 899.492797852
+	train_objective: 0.123137257993
+	train_term_0: 0.0246722921729
+	train_term_1_weight_decay: 0.0984602794051
+	train_y_col_norms_max: 2.17687153816
+	train_y_col_norms_mean: 1.88869488239
+	train_y_col_norms_min: 1.00657236576
+	train_y_max_max_class: 0.99674397707
+	train_y_mean_max_class: 0.991871595383
+	train_y_min_max_class: 0.987005293369
+	train_y_misclass: 0.00797048956156
+	train_y_nll: 0.0246722921729
+	train_y_row_norms_max: 0.982971310616
+	train_y_row_norms_mean: 0.32083773613
+	train_y_row_norms_min: 0.0422942452133
+	training_seconds_this_epoch: 269.897857666
+Saving to cnn.pkl...
+Saving to cnn.pkl done. Time elapsed: 0.147199 seconds
+Time this epoch: 0:04:32.420541
+Monitoring step:
+	Epochs seen: 5
+	Batches seen: 180040
+	Examples seen: 360080
+	learning_rate: 0.00199990696274
+	momentum: 0.717749714851
+	test_objective: 1.34181904793
+	test_term_0: 1.24582052231
+	test_term_1_weight_decay: 0.095984198153
+	test_y_col_norms_max: 2.15848612785
+	test_y_col_norms_mean: 1.86694216728
+	test_y_col_norms_min: 0.993895113468
+	test_y_max_max_class: 0.958471953869
+	test_y_mean_max_class: 0.936827898026
+	test_y_min_max_class: 0.915185272694
+	test_y_misclass: 0.240202948451
+	test_y_nll: 1.24582052231
+	test_y_row_norms_max: 0.977520883083
+	test_y_row_norms_mean: 0.318818360567
+	test_y_row_norms_min: 0.0464247427881
+	total_seconds_last_epoch: 898.614501953
+	train_objective: 0.111470460892
+	train_term_0: 0.015462262556
+	train_term_1_weight_decay: 0.0960236117244
+	train_y_col_norms_max: 2.15861845016
+	train_y_col_norms_mean: 1.86717808247
+	train_y_col_norms_min: 0.993736743927
+	train_y_max_max_class: 0.997613132
+	train_y_mean_max_class: 0.994348704815
+	train_y_min_max_class: 0.991089761257
+	train_y_misclass: 0.00455454736948
+	train_y_nll: 0.015462262556
+	train_y_row_norms_max: 0.977083444595
+	train_y_row_norms_mean: 0.318742245436
+	train_y_row_norms_min: 0.0464151762426
+	training_seconds_this_epoch: 272.423858643
+Saving to cnn.pkl...
+Saving to cnn.pkl done. Time elapsed: 0.151470 seconds
+Time this epoch: 0:04:33.859662
+Monitoring step:
+	Epochs seen: 6
+	Batches seen: 216048
+	Examples seen: 432096
+	learning_rate: 0.00199990696274
+	momentum: 0.772248268127
+	test_objective: 1.20252680779
+	test_term_0: 1.10923242569
+	test_term_1_weight_decay: 0.0933085158467
+	test_y_col_norms_max: 2.06929326057
+	test_y_col_norms_mean: 1.81974744797
+	test_y_col_norms_min: 0.979911804199
+	test_y_max_max_class: 0.958263218403
+	test_y_mean_max_class: 0.937951147556
+	test_y_min_max_class: 0.91763985157
+	test_y_misclass: 0.213612705469
+	test_y_nll: 1.10923242569
+	test_y_row_norms_max: 0.935404241085
+	test_y_row_norms_mean: 0.312996834517
+	test_y_row_norms_min: 0.0531153418124
+	total_seconds_last_epoch: 901.955383301
+	train_objective: 0.111173897982
+	train_term_0: 0.0178474634886
+	train_term_1_weight_decay: 0.0933402702212
+	train_y_col_norms_max: 2.06902813911
+	train_y_col_norms_mean: 1.81999993324
+	train_y_col_norms_min: 0.980318009853
+	train_y_max_max_class: 0.997390389442
+	train_y_mean_max_class: 0.993186831474
+	train_y_min_max_class: 0.988985896111
+	train_y_misclass: 0.00555433379486
+	train_y_nll: 0.0178474634886
+	train_y_row_norms_max: 0.935652732849
+	train_y_row_norms_mean: 0.313008725643
+	train_y_row_norms_min: 0.0531193837523
+	training_seconds_this_epoch: 273.862762451
+Saving to cnn.pkl...
+Saving to cnn.pkl done. Time elapsed: 0.148911 seconds
+Time this epoch: 0:04:35.164880
+Monitoring step:
+	Epochs seen: 7
+	Batches seen: 252056
+	Examples seen: 504112
+	learning_rate: 0.00199990696274
+	momentum: 0.826656103134
+	test_objective: 1.0912938118
+	test_term_0: 0.999820828438
+	test_term_1_weight_decay: 0.091472543776
+	test_y_col_norms_max: 1.97177350521
+	test_y_col_norms_mean: 1.70483767986
+	test_y_col_norms_min: 0.979194223881
+	test_y_max_max_class: 0.947491943836
+	test_y_mean_max_class: 0.926718652248
+	test_y_min_max_class: 0.905944764614
+	test_y_misclass: 0.201907888055
+	test_y_nll: 0.999820828438
+	test_y_row_norms_max: 0.864653766155
+	test_y_row_norms_mean: 0.295773595572
+	test_y_row_norms_min: 0.0558392852545
+	total_seconds_last_epoch: 906.701965332
+	train_objective: 0.118488445878
+	train_term_0: 0.0270160343498
+	train_term_1_weight_decay: 0.0914822891355
+	train_y_col_norms_max: 1.97112333775
+	train_y_col_norms_mean: 1.70436882973
+	train_y_col_norms_min: 0.978824138641
+	train_y_max_max_class: 0.99537974596
+	train_y_mean_max_class: 0.989779889584
+	train_y_min_max_class: 0.984187483788
+	train_y_misclass: 0.00965069048107
+	train_y_nll: 0.0270160343498
+	train_y_row_norms_max: 0.864819943905
+	train_y_row_norms_mean: 0.295756012201
+	train_y_row_norms_min: 0.0558309555054
+	training_seconds_this_epoch: 275.171447754
+Saving to cnn.pkl...
+Saving to cnn.pkl done. Time elapsed: 0.150975 seconds
+Time this epoch: 0:04:35.262823
+Monitoring step:
+	Epochs seen: 8
+	Batches seen: 288064
+	Examples seen: 576128
+	learning_rate: 0.00199990696274
+	momentum: 0.881066381931
+	test_objective: 1.13146841526
+	test_term_0: 1.0378510952
+	test_term_1_weight_decay: 0.0935911238194
+	test_y_col_norms_max: 1.83846664429
+	test_y_col_norms_mean: 1.62611043453
+	test_y_col_norms_min: 1.04333615303
+	test_y_max_max_class: 0.95523506403
+	test_y_mean_max_class: 0.935276567936
+	test_y_min_max_class: 0.915317356586
+	test_y_misclass: 0.216411665082
+	test_y_nll: 1.0378510952
+	test_y_row_norms_max: 0.771611630917
+	test_y_row_norms_mean: 0.28691264987
+	test_y_row_norms_min: 0.0466732606292
+	total_seconds_last_epoch: 916.119567871
+	train_objective: 0.122602075338
+	train_term_0: 0.0289943795651
+	train_term_1_weight_decay: 0.093613088131
+	train_y_col_norms_max: 1.83807849884
+	train_y_col_norms_mean: 1.62658512592
+	train_y_col_norms_min: 1.04317116737
+	train_y_max_max_class: 0.996305882931
+	train_y_mean_max_class: 0.990713119507
+	train_y_min_max_class: 0.985128581524
+	train_y_misclass: 0.00927577074617
+	train_y_nll: 0.0289943795651
+	train_y_row_norms_max: 0.77195507288
+	train_y_row_norms_mean: 0.286902993917
+	train_y_row_norms_min: 0.0466786921024
+	training_seconds_this_epoch: 275.252197266
+Saving to cnn.pkl...
+Saving to cnn.pkl done. Time elapsed: 0.161343 seconds
+Time this epoch: 0:04:35.121052
+
+

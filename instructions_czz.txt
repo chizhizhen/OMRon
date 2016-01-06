@@ -1,0 +1,3 @@
+traincnn.yaml: network structure;
+mkdspkl.py: transform video_data to pylearn_input_style
+
